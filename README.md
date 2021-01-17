@@ -1,2 +1,2 @@
-# python Telephone directory
+# Telephone directory on python
 Data stores using pickle module.
